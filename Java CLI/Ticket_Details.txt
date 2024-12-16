@@ -1,0 +1,435 @@
+[2024-12-01 13:40:51] ##__Tickets__##:
+[2024-12-01 13:40:51] Event Name: Spandana
+[2024-12-01 13:40:51] Total Tickets: 100
+[2024-12-01 13:40:51] Ticket Release Rate: 5
+[2024-12-01 13:40:51] Customer Retrieval Rate: 2
+[2024-12-01 13:40:51] Maximum Ticket Capacity: 120
+[2024-12-01 13:40:51] Ticket Price: 250.0
+[2024-12-01 13:40:51] Vendor added 5 tickets. Total added: 5
+[2024-12-01 13:40:51] Vendor Current Tickets in Pool: 5
+[2024-12-01 13:40:51] Customer retrieved a ticket. Remaining: 4
+[2024-12-01 13:40:51] Customer retrieved a ticket. Remaining: 3
+[2024-12-01 13:40:51] Customer retrieved a ticket. Remaining: 2
+[2024-12-01 13:40:51] Customer retrieved a ticket. Remaining: 1
+[2024-12-01 13:40:51] Vendor added 5 tickets. Total added: 10
+[2024-12-01 13:40:51] Vendor Current Tickets in Pool: 6
+[2024-12-01 13:40:52] Customer retrieved a ticket. Remaining: 5
+[2024-12-01 13:40:52] Customer retrieved a ticket. Remaining: 4
+[2024-12-01 13:40:52] Vendor added 5 tickets. Total added: 15
+[2024-12-01 13:40:52] Vendor Current Tickets in Pool: 9
+[2024-12-01 13:40:53] Customer retrieved a ticket. Remaining: 8
+[2024-12-01 13:40:53] Customer retrieved a ticket. Remaining: 7
+[2024-12-01 13:40:53] Vendor added 5 tickets. Total added: 20
+[2024-12-01 13:40:53] Vendor Current Tickets in Pool: 12
+[2024-12-01 13:40:53] Customer retrieved a ticket. Remaining: 11
+[2024-12-01 13:40:53] Customer retrieved a ticket. Remaining: 10
+[2024-12-01 13:40:53] Vendor added 5 tickets. Total added: 25
+[2024-12-01 13:40:53] Vendor Current Tickets in Pool: 15
+[2024-12-01 13:40:54] Vendor added 5 tickets. Total added: 30
+[2024-12-01 13:40:54] Vendor Current Tickets in Pool: 20
+[2024-12-01 13:40:54] Customer retrieved a ticket. Remaining: 19
+[2024-12-01 13:40:54] Customer retrieved a ticket. Remaining: 18
+[2024-12-01 13:40:54] Customer retrieved a ticket. Remaining: 17
+[2024-12-01 13:40:54] Customer retrieved a ticket. Remaining: 16
+[2024-12-01 13:40:54] Vendor added 5 tickets. Total added: 35
+[2024-12-01 13:40:54] Vendor Current Tickets in Pool: 21
+[2024-12-01 13:40:55] Customer retrieved a ticket. Remaining: 20
+[2024-12-01 13:40:55] Customer retrieved a ticket. Remaining: 19
+[2024-12-01 13:40:55] Vendor added 5 tickets. Total added: 40
+[2024-12-01 13:40:55] Vendor Current Tickets in Pool: 24
+[2024-12-01 13:40:55] Customer retrieved a ticket. Remaining: 23
+[2024-12-01 13:40:55] Customer retrieved a ticket. Remaining: 22
+[2024-12-01 13:40:55] Vendor added 5 tickets. Total added: 45
+[2024-12-01 13:40:55] Vendor Current Tickets in Pool: 27
+[2024-12-01 13:40:56] Customer retrieved a ticket. Remaining: 26
+[2024-12-01 13:40:56] Customer retrieved a ticket. Remaining: 25
+[2024-12-01 13:40:56] Vendor added 5 tickets. Total added: 50
+[2024-12-01 13:40:56] Vendor Current Tickets in Pool: 30
+[2024-12-01 13:40:56] Vendor added 5 tickets. Total added: 55
+[2024-12-01 13:40:56] Vendor Current Tickets in Pool: 35
+[2024-12-01 13:40:56] Customer retrieved a ticket. Remaining: 34
+[2024-12-01 13:40:56] Customer retrieved a ticket. Remaining: 33
+[2024-12-01 13:40:57] Customer retrieved a ticket. Remaining: 32
+[2024-12-01 13:40:57] Customer retrieved a ticket. Remaining: 31
+[2024-12-01 13:40:57] Vendor added 5 tickets. Total added: 60
+[2024-12-01 13:40:57] Vendor Current Tickets in Pool: 36
+[2024-12-01 13:40:57] Customer retrieved a ticket. Remaining: 35
+[2024-12-01 13:40:57] Customer retrieved a ticket. Remaining: 34
+[2024-12-01 13:40:57] Vendor added 5 tickets. Total added: 65
+[2024-12-01 13:40:57] Vendor Current Tickets in Pool: 39
+[2024-12-01 13:40:58] Customer retrieved a ticket. Remaining: 38
+[2024-12-01 13:40:58] Customer retrieved a ticket. Remaining: 37
+[2024-12-01 13:40:58] Vendor added 5 tickets. Total added: 70
+[2024-12-01 13:40:58] Vendor Current Tickets in Pool: 42
+[2024-12-01 13:40:58] Vendor added 5 tickets. Total added: 75
+[2024-12-01 13:40:58] Vendor Current Tickets in Pool: 47
+[2024-12-01 13:40:58] Customer retrieved a ticket. Remaining: 46
+[2024-12-01 13:40:58] Customer retrieved a ticket. Remaining: 45
+[2024-12-01 13:40:59] Vendor added 5 tickets. Total added: 80
+[2024-12-01 13:40:59] Vendor Current Tickets in Pool: 50
+[2024-12-01 13:40:59] Customer retrieved a ticket. Remaining: 49
+[2024-12-01 13:40:59] Customer retrieved a ticket. Remaining: 48
+[2024-12-01 13:40:59] Vendor added 5 tickets. Total added: 85
+[2024-12-01 13:40:59] Vendor Current Tickets in Pool: 53
+[2024-12-01 13:40:59] Customer retrieved a ticket. Remaining: 52
+[2024-12-01 13:40:59] Customer retrieved a ticket. Remaining: 51
+[2024-12-01 13:41:00] Customer retrieved a ticket. Remaining: 50
+[2024-12-01 13:41:00] Customer retrieved a ticket. Remaining: 49
+[2024-12-01 13:41:00] Vendor added 5 tickets. Total added: 90
+[2024-12-01 13:41:00] Vendor Current Tickets in Pool: 54
+[2024-12-01 13:41:00] Customer retrieved a ticket. Remaining: 53
+[2024-12-01 13:41:00] Customer retrieved a ticket. Remaining: 52
+[2024-12-01 13:41:00] Vendor added 5 tickets. Total added: 95
+[2024-12-01 13:41:00] Vendor Current Tickets in Pool: 57
+[2024-12-01 13:41:01] Vendor added 5 tickets. Total added: 100
+[2024-12-01 13:41:01] Vendor Current Tickets in Pool: 62
+[2024-12-01 13:41:01] Customer retrieved a ticket. Remaining: 61
+[2024-12-01 13:41:01] Customer retrieved a ticket. Remaining: 60
+[2024-12-01 13:41:01] Customer retrieved a ticket. Remaining: 59
+[2024-12-01 13:41:01] Customer retrieved a ticket. Remaining: 58
+[2024-12-01 13:41:02] Final Summary:
+[2024-12-01 13:41:02] Tickets Sold: 42
+[2024-12-01 13:41:02] Remaining Tickets: 58
+[2024-12-01 13:41:02] Ticket system stopped.
+[2024-12-01 13:41:21] System exited.
+[2024-12-01 13:41:21] ---------------------------------------------------------------------
+[2024-12-01 19:26:52] System exited.
+[2024-12-01 19:26:52] ---------------------------------------------------------------------
+[2024-12-02 22:16:52] ##__Tickets__##:
+[2024-12-02 22:16:52] Event Name: mega blast
+[2024-12-02 22:16:52] Total Tickets: 50
+[2024-12-02 22:16:52] Ticket Release Rate: 5
+[2024-12-02 22:16:52] Customer Retrieval Rate: 3
+[2024-12-02 22:16:52] Maximum Ticket Capacity: 90
+[2024-12-02 22:16:52] Ticket Price: 700.0
+[2024-12-02 22:16:52] Vendor added 5 tickets. Total added: 5
+[2024-12-02 22:16:52] Vendor Current Tickets in Pool: 5
+[2024-12-02 22:16:52] Customer retrieved a ticket. Remaining: 4
+[2024-12-02 22:16:52] Customer retrieved a ticket. Remaining: 3
+[2024-12-02 22:16:52] Customer retrieved a ticket. Remaining: 2
+[2024-12-02 22:16:53] Customer retrieved a ticket. Remaining: 1
+[2024-12-02 22:16:53] Customer retrieved a ticket. Remaining: 0
+[2024-12-02 22:16:53] Customer tried to retrieve a ticket, but none are available.
+[2024-12-02 22:16:53] Vendor added 5 tickets. Total added: 10
+[2024-12-02 22:16:53] Vendor Current Tickets in Pool: 5
+[2024-12-02 22:16:53] Vendor added 5 tickets. Total added: 15
+[2024-12-02 22:16:53] Vendor Current Tickets in Pool: 10
+[2024-12-02 22:16:53] Customer retrieved a ticket. Remaining: 9
+[2024-12-02 22:16:53] Customer retrieved a ticket. Remaining: 8
+[2024-12-02 22:16:53] Customer retrieved a ticket. Remaining: 7
+[2024-12-02 22:16:54] Vendor added 5 tickets. Total added: 20
+[2024-12-02 22:16:54] Vendor Current Tickets in Pool: 12
+[2024-12-02 22:16:54] Customer retrieved a ticket. Remaining: 11
+[2024-12-02 22:16:54] Customer retrieved a ticket. Remaining: 10
+[2024-12-02 22:16:54] Customer retrieved a ticket. Remaining: 9
+[2024-12-02 22:16:54] Vendor added 5 tickets. Total added: 25
+[2024-12-02 22:16:54] Vendor Current Tickets in Pool: 14
+[2024-12-02 22:16:54] Customer retrieved a ticket. Remaining: 13
+[2024-12-02 22:16:54] Customer retrieved a ticket. Remaining: 12
+[2024-12-02 22:16:54] Customer retrieved a ticket. Remaining: 11
+[2024-12-02 22:16:55] Vendor added 5 tickets. Total added: 30
+[2024-12-02 22:16:55] Vendor Current Tickets in Pool: 16
+[2024-12-02 22:16:55] Customer retrieved a ticket. Remaining: 15
+[2024-12-02 22:16:55] Customer retrieved a ticket. Remaining: 14
+[2024-12-02 22:16:55] Customer retrieved a ticket. Remaining: 13
+[2024-12-02 22:16:55] Vendor added 5 tickets. Total added: 35
+[2024-12-02 22:16:55] Vendor Current Tickets in Pool: 18
+[2024-12-02 22:16:55] Customer retrieved a ticket. Remaining: 17
+[2024-12-02 22:16:55] Customer retrieved a ticket. Remaining: 16
+[2024-12-02 22:16:55] Customer retrieved a ticket. Remaining: 15
+[2024-12-02 22:16:56] Vendor added 5 tickets. Total added: 40
+[2024-12-02 22:16:56] Vendor Current Tickets in Pool: 20
+[2024-12-02 22:16:56] Customer retrieved a ticket. Remaining: 19
+[2024-12-02 22:16:56] Customer retrieved a ticket. Remaining: 18
+[2024-12-02 22:16:56] Customer retrieved a ticket. Remaining: 17
+[2024-12-02 22:16:57] Vendor added 5 tickets. Total added: 45
+[2024-12-02 22:16:57] Vendor Current Tickets in Pool: 22
+[2024-12-02 22:16:57] Customer retrieved a ticket. Remaining: 21
+[2024-12-02 22:16:57] Customer retrieved a ticket. Remaining: 20
+[2024-12-02 22:16:57] Customer retrieved a ticket. Remaining: 19
+[2024-12-02 22:16:57] Customer retrieved a ticket. Remaining: 18
+[2024-12-02 22:16:57] Customer retrieved a ticket. Remaining: 17
+[2024-12-02 22:16:57] Customer retrieved a ticket. Remaining: 16
+[2024-12-02 22:16:57] Vendor added 5 tickets. Total added: 50
+[2024-12-02 22:16:57] Vendor Current Tickets in Pool: 21
+[2024-12-02 22:16:58] Customer retrieved a ticket. Remaining: 20
+[2024-12-02 22:16:58] Customer retrieved a ticket. Remaining: 19
+[2024-12-02 22:16:58] Customer retrieved a ticket. Remaining: 18
+[2024-12-02 22:16:58] Final Summary:
+[2024-12-02 22:16:58] Tickets Sold: 32
+[2024-12-02 22:16:58] Remaining Tickets: 18
+[2024-12-02 22:16:58] Ticket system stopped.
+[2024-12-02 22:17:06] System exited.
+[2024-12-02 22:17:06] ---------------------------------------------------------------------
+[2024-12-03 11:25:06] ##__Tickets__##:
+[2024-12-03 11:25:06] Event Name: ertre
+[2024-12-03 11:25:06] Total Tickets: 30
+[2024-12-03 11:25:06] Ticket Release Rate: 5
+[2024-12-03 11:25:06] Customer Retrieval Rate: 3
+[2024-12-03 11:25:06] Maximum Ticket Capacity: 80
+[2024-12-03 11:25:06] Ticket Price: 1100.0
+[2024-12-03 11:25:06] Vendor added 5 tickets. Total added: 5
+[2024-12-03 11:25:06] Vendor Current Tickets in Pool: 5
+[2024-12-03 11:25:06] Customer retrieved a ticket. Remaining: 4
+[2024-12-03 11:25:06] Customer retrieved a ticket. Remaining: 3
+[2024-12-03 11:25:06] Customer retrieved a ticket. Remaining: 2
+[2024-12-03 11:25:07] Vendor added 5 tickets. Total added: 10
+[2024-12-03 11:25:07] Vendor Current Tickets in Pool: 7
+[2024-12-03 11:25:07] Customer retrieved a ticket. Remaining: 6
+[2024-12-03 11:25:07] Customer retrieved a ticket. Remaining: 5
+[2024-12-03 11:25:07] Customer retrieved a ticket. Remaining: 4
+[2024-12-03 11:25:07] Vendor added 5 tickets. Total added: 15
+[2024-12-03 11:25:07] Vendor Current Tickets in Pool: 9
+[2024-12-03 11:25:07] Customer retrieved a ticket. Remaining: 8
+[2024-12-03 11:25:07] Customer retrieved a ticket. Remaining: 7
+[2024-12-03 11:25:07] Customer retrieved a ticket. Remaining: 6
+[2024-12-03 11:25:08] Vendor added 5 tickets. Total added: 20
+[2024-12-03 11:25:08] Vendor Current Tickets in Pool: 11
+[2024-12-03 11:25:08] Customer retrieved a ticket. Remaining: 10
+[2024-12-03 11:25:08] Customer retrieved a ticket. Remaining: 9
+[2024-12-03 11:25:08] Customer retrieved a ticket. Remaining: 8
+[2024-12-03 11:25:08] Vendor added 5 tickets. Total added: 25
+[2024-12-03 11:25:08] Vendor Current Tickets in Pool: 13
+[2024-12-03 11:25:08] Customer retrieved a ticket. Remaining: 12
+[2024-12-03 11:25:08] Customer retrieved a ticket. Remaining: 11
+[2024-12-03 11:25:08] Customer retrieved a ticket. Remaining: 10
+[2024-12-03 11:25:09] Vendor added 5 tickets. Total added: 30
+[2024-12-03 11:25:09] Vendor Current Tickets in Pool: 15
+[2024-12-03 11:25:09] Customer retrieved a ticket. Remaining: 14
+[2024-12-03 11:25:09] Customer retrieved a ticket. Remaining: 13
+[2024-12-03 11:25:09] Customer retrieved a ticket. Remaining: 12
+[2024-12-03 11:25:10] Final Summary:
+[2024-12-03 11:25:10] Tickets Sold: 18
+[2024-12-03 11:25:10] Remaining Tickets: 12
+[2024-12-03 11:25:10] Ticket system stopped.
+[2024-12-03 11:26:07] System exited.
+[2024-12-03 11:26:07] ---------------------------------------------------------------------
+[2024-12-03 11:35:59] System exited.
+[2024-12-03 11:35:59] ---------------------------------------------------------------------
+[2024-12-04 19:25:18] System exited.
+[2024-12-04 19:25:18] ---------------------------------------------------------------------
+[2024-12-06 09:02:21] ##__Tickets__##:
+[2024-12-06 09:02:21] Event Name: 123
+[2024-12-06 09:02:21] Total Tickets: 5
+[2024-12-06 09:02:21] Ticket Release Rate: 1
+[2024-12-06 09:02:21] Customer Retrieval Rate: 10
+[2024-12-06 09:02:21] Maximum Ticket Capacity: 10
+[2024-12-06 09:02:21] Ticket Price: 300.0
+[2024-12-06 09:02:21] Vendor added 1 tickets. Total added: 1
+[2024-12-06 09:02:21] Vendor Current Tickets in Pool: 1
+[2024-12-06 09:02:21] Customer retrieved a ticket. Remaining: 0
+[2024-12-06 09:02:21] Customer tried to retrieve a ticket, but none are available.
+[2024-12-06 09:02:22] Customer tried to retrieve a ticket, but none are available.
+[2024-12-06 09:02:22] Vendor added 1 tickets. Total added: 2
+[2024-12-06 09:02:22] Vendor Current Tickets in Pool: 1
+[2024-12-06 09:02:22] Customer retrieved a ticket. Remaining: 0
+[2024-12-06 09:02:22] Customer tried to retrieve a ticket, but none are available.
+[2024-12-06 09:02:22] Vendor added 1 tickets. Total added: 3
+[2024-12-06 09:02:22] Vendor Current Tickets in Pool: 1
+[2024-12-06 09:02:23] Customer retrieved a ticket. Remaining: 0
+[2024-12-06 09:02:23] Customer tried to retrieve a ticket, but none are available.
+[2024-12-06 09:02:23] Vendor added 1 tickets. Total added: 4
+[2024-12-06 09:02:23] Vendor Current Tickets in Pool: 1
+[2024-12-06 09:02:23] Customer retrieved a ticket. Remaining: 0
+[2024-12-06 09:02:23] Customer tried to retrieve a ticket, but none are available.
+[2024-12-06 09:02:24] Vendor added 1 tickets. Total added: 5
+[2024-12-06 09:02:24] Vendor Current Tickets in Pool: 1
+[2024-12-06 09:02:24] Customer retrieved a ticket. Remaining: 0
+[2024-12-06 09:02:24] Customer tried to retrieve a ticket, but none are available.
+[2024-12-06 09:02:25] Final Summary:
+[2024-12-06 09:02:25] Tickets Sold: 5
+[2024-12-06 09:02:25] Remaining Tickets: 0
+[2024-12-06 09:02:25] Ticket system stopped.
+[2024-12-11 22:10:42] ##__Tickets__##:
+[2024-12-11 22:10:42] Event Name: Yathra
+[2024-12-11 22:10:42] Total Tickets: 50
+[2024-12-11 22:10:42] Ticket Release Rate: 5
+[2024-12-11 22:10:42] Customer Retrieval Rate: 2
+[2024-12-11 22:10:42] Maximum Ticket Capacity: 100
+[2024-12-11 22:10:42] Ticket Price: 500.0
+[2024-12-11 22:10:42] Vendor added 5 tickets. Total added: 5
+[2024-12-11 22:10:42] Vendor Current Tickets in Pool: 5
+[2024-12-11 22:10:42] Customer retrieved a ticket. Remaining: 4
+[2024-12-11 22:10:42] Customer retrieved a ticket. Remaining: 3
+[2024-12-11 22:10:43] Customer retrieved a ticket. Remaining: 2
+[2024-12-11 22:10:43] Customer retrieved a ticket. Remaining: 1
+[2024-12-11 22:10:43] Vendor added 5 tickets. Total added: 10
+[2024-12-11 22:10:43] Vendor Current Tickets in Pool: 6
+[2024-12-11 22:10:43] Customer retrieved a ticket. Remaining: 5
+[2024-12-11 22:10:43] Customer retrieved a ticket. Remaining: 4
+[2024-12-11 22:10:43] Vendor added 5 tickets. Total added: 15
+[2024-12-11 22:10:43] Vendor Current Tickets in Pool: 9
+[2024-12-11 22:10:44] Customer retrieved a ticket. Remaining: 8
+[2024-12-11 22:10:44] Customer retrieved a ticket. Remaining: 7
+[2024-12-11 22:10:44] Vendor added 5 tickets. Total added: 20
+[2024-12-11 22:10:44] Vendor Current Tickets in Pool: 12
+[2024-12-11 22:10:44] Customer retrieved a ticket. Remaining: 11
+[2024-12-11 22:10:44] Customer retrieved a ticket. Remaining: 10
+[2024-12-11 22:10:44] Vendor added 5 tickets. Total added: 25
+[2024-12-11 22:10:44] Vendor Current Tickets in Pool: 15
+[2024-12-11 22:10:45] Customer retrieved a ticket. Remaining: 14
+[2024-12-11 22:10:45] Customer retrieved a ticket. Remaining: 13
+[2024-12-11 22:10:45] Vendor added 5 tickets. Total added: 30
+[2024-12-11 22:10:45] Vendor Current Tickets in Pool: 18
+[2024-12-11 22:10:45] Customer retrieved a ticket. Remaining: 17
+[2024-12-11 22:10:45] Customer retrieved a ticket. Remaining: 16
+[2024-12-11 22:10:45] Vendor added 5 tickets. Total added: 35
+[2024-12-11 22:10:45] Vendor Current Tickets in Pool: 21
+[2024-12-11 22:10:46] Customer retrieved a ticket. Remaining: 20
+[2024-12-11 22:10:46] Customer retrieved a ticket. Remaining: 19
+[2024-12-11 22:10:46] Vendor added 5 tickets. Total added: 40
+[2024-12-11 22:10:46] Vendor Current Tickets in Pool: 24
+[2024-12-11 22:10:46] Customer retrieved a ticket. Remaining: 23
+[2024-12-11 22:10:46] Customer retrieved a ticket. Remaining: 22
+[2024-12-11 22:10:46] Vendor added 5 tickets. Total added: 45
+[2024-12-11 22:10:46] Vendor Current Tickets in Pool: 27
+[2024-12-11 22:10:47] Customer retrieved a ticket. Remaining: 26
+[2024-12-11 22:10:47] Customer retrieved a ticket. Remaining: 25
+[2024-12-11 22:10:47] Vendor added 5 tickets. Total added: 50
+[2024-12-11 22:10:47] Vendor Current Tickets in Pool: 30
+[2024-12-11 22:10:47] Customer retrieved a ticket. Remaining: 29
+[2024-12-11 22:10:47] Customer retrieved a ticket. Remaining: 28
+[2024-12-11 22:10:48] Final Summary:
+[2024-12-11 22:10:48] Tickets Sold: 22
+[2024-12-11 22:10:48] Remaining Tickets: 28
+[2024-12-11 22:10:48] Ticket system stopped.
+[2024-12-11 22:16:32] System exited.
+[2024-12-11 22:16:32] ---------------------------------------------------------------------
+[2024-12-11 22:32:12] ##__Tickets__##:
+[2024-12-11 22:32:12] Event Name: Spandana 2.0
+[2024-12-11 22:32:12] Total Tickets: 80
+[2024-12-11 22:32:12] Ticket Release Rate: 5
+[2024-12-11 22:32:12] Customer Retrieval Rate: 2
+[2024-12-11 22:32:12] Maximum Ticket Capacity: 100
+[2024-12-11 22:32:12] Ticket Price: 120.0
+[2024-12-11 22:32:12] Vendor added 5 tickets. Total added: 5
+[2024-12-11 22:32:12] Vendor Current Tickets in Pool: 5
+[2024-12-11 22:32:12] Customer retrieved a ticket. Remaining: 4
+[2024-12-11 22:32:12] Customer retrieved a ticket. Remaining: 3
+[2024-12-11 22:32:13] Vendor added 5 tickets. Total added: 10
+[2024-12-11 22:32:13] Vendor Current Tickets in Pool: 8
+[2024-12-11 22:32:13] Customer retrieved a ticket. Remaining: 7
+[2024-12-11 22:32:13] Customer retrieved a ticket. Remaining: 6
+[2024-12-11 22:32:13] Customer retrieved a ticket. Remaining: 5
+[2024-12-11 22:32:13] Customer retrieved a ticket. Remaining: 4
+[2024-12-11 22:32:13] Vendor added 5 tickets. Total added: 15
+[2024-12-11 22:32:13] Vendor Current Tickets in Pool: 9
+[2024-12-11 22:32:14] Customer retrieved a ticket. Remaining: 8
+[2024-12-11 22:32:14] Customer retrieved a ticket. Remaining: 7
+[2024-12-11 22:32:14] Vendor added 5 tickets. Total added: 20
+[2024-12-11 22:32:14] Vendor Current Tickets in Pool: 12
+[2024-12-11 22:32:14] Customer retrieved a ticket. Remaining: 11
+[2024-12-11 22:32:14] Customer retrieved a ticket. Remaining: 10
+[2024-12-11 22:32:14] Vendor added 5 tickets. Total added: 25
+[2024-12-11 22:32:14] Vendor Current Tickets in Pool: 15
+[2024-12-11 22:32:15] Customer retrieved a ticket. Remaining: 14
+[2024-12-11 22:32:15] Customer retrieved a ticket. Remaining: 13
+[2024-12-11 22:32:15] Vendor added 5 tickets. Total added: 30
+[2024-12-11 22:32:15] Vendor Current Tickets in Pool: 18
+[2024-12-11 22:32:15] Customer retrieved a ticket. Remaining: 17
+[2024-12-11 22:32:15] Customer retrieved a ticket. Remaining: 16
+[2024-12-11 22:32:15] Vendor added 5 tickets. Total added: 35
+[2024-12-11 22:32:15] Vendor Current Tickets in Pool: 21
+[2024-12-11 22:32:16] Customer retrieved a ticket. Remaining: 20
+[2024-12-11 22:32:16] Customer retrieved a ticket. Remaining: 19
+[2024-12-11 22:32:16] Vendor added 5 tickets. Total added: 40
+[2024-12-11 22:32:16] Vendor Current Tickets in Pool: 24
+[2024-12-11 22:32:16] Customer retrieved a ticket. Remaining: 23
+[2024-12-11 22:32:16] Customer retrieved a ticket. Remaining: 22
+[2024-12-11 22:32:16] Vendor added 5 tickets. Total added: 45
+[2024-12-11 22:32:16] Vendor Current Tickets in Pool: 27
+[2024-12-11 22:32:17] Customer retrieved a ticket. Remaining: 26
+[2024-12-11 22:32:17] Customer retrieved a ticket. Remaining: 25
+[2024-12-11 22:32:17] Vendor added 5 tickets. Total added: 50
+[2024-12-11 22:32:17] Vendor Current Tickets in Pool: 30
+[2024-12-11 22:32:17] Customer retrieved a ticket. Remaining: 29
+[2024-12-11 22:32:17] Customer retrieved a ticket. Remaining: 28
+[2024-12-11 22:32:17] Vendor added 5 tickets. Total added: 55
+[2024-12-11 22:32:17] Vendor Current Tickets in Pool: 33
+[2024-12-11 22:32:18] Customer retrieved a ticket. Remaining: 32
+[2024-12-11 22:32:18] Customer retrieved a ticket. Remaining: 31
+[2024-12-11 22:32:18] Vendor added 5 tickets. Total added: 60
+[2024-12-11 22:32:18] Vendor Current Tickets in Pool: 36
+[2024-12-11 22:32:18] Customer retrieved a ticket. Remaining: 35
+[2024-12-11 22:32:18] Customer retrieved a ticket. Remaining: 34
+[2024-12-11 22:32:18] Vendor added 5 tickets. Total added: 65
+[2024-12-11 22:32:18] Vendor Current Tickets in Pool: 39
+[2024-12-11 22:32:19] Customer retrieved a ticket. Remaining: 38
+[2024-12-11 22:32:19] Customer retrieved a ticket. Remaining: 37
+[2024-12-11 22:32:19] Vendor added 5 tickets. Total added: 70
+[2024-12-11 22:32:19] Vendor Current Tickets in Pool: 42
+[2024-12-11 22:32:19] Customer retrieved a ticket. Remaining: 41
+[2024-12-11 22:32:19] Customer retrieved a ticket. Remaining: 40
+[2024-12-11 22:32:19] Vendor added 5 tickets. Total added: 75
+[2024-12-11 22:32:19] Vendor Current Tickets in Pool: 45
+[2024-12-11 22:32:20] Customer retrieved a ticket. Remaining: 44
+[2024-12-11 22:32:20] Customer retrieved a ticket. Remaining: 43
+[2024-12-11 22:32:20] Vendor added 5 tickets. Total added: 80
+[2024-12-11 22:32:20] Vendor Current Tickets in Pool: 48
+[2024-12-11 22:32:20] Customer retrieved a ticket. Remaining: 47
+[2024-12-11 22:32:20] Customer retrieved a ticket. Remaining: 46
+[2024-12-11 22:32:21] Final Summary:
+[2024-12-11 22:32:21] Tickets Sold: 34
+[2024-12-11 22:32:21] Remaining Tickets: 46
+[2024-12-11 22:32:21] Ticket system stopped.
+[2024-12-11 22:51:15] System exited.
+[2024-12-11 22:51:15] ---------------------------------------------------------------------
+[2024-12-11 23:18:39] ##__Tickets__##:
+[2024-12-11 23:18:39] Event Name: Flashback
+[2024-12-11 23:18:39] Total Tickets: 50
+[2024-12-11 23:18:39] Ticket Release Rate: 5
+[2024-12-11 23:18:39] Customer Retrieval Rate: 2
+[2024-12-11 23:18:39] Maximum Ticket Capacity: 100
+[2024-12-11 23:18:39] Ticket Price: 500.0
+[2024-12-11 23:18:39] Vendor added 5 tickets. Total added: 5
+[2024-12-11 23:18:39] Vendor Current Tickets in Pool: 5
+[2024-12-11 23:18:39] Customer retrieved a ticket. Remaining: 4
+[2024-12-11 23:18:39] Customer retrieved a ticket. Remaining: 3
+[2024-12-11 23:18:39] Customer retrieved a ticket. Remaining: 2
+[2024-12-11 23:18:39] Customer retrieved a ticket. Remaining: 1
+[2024-12-11 23:18:39] Vendor added 5 tickets. Total added: 10
+[2024-12-11 23:18:39] Vendor Current Tickets in Pool: 6
+[2024-12-11 23:18:40] Customer retrieved a ticket. Remaining: 5
+[2024-12-11 23:18:40] Customer retrieved a ticket. Remaining: 4
+[2024-12-11 23:18:40] Vendor added 5 tickets. Total added: 15
+[2024-12-11 23:18:40] Vendor Current Tickets in Pool: 9
+[2024-12-11 23:18:40] Vendor added 5 tickets. Total added: 20
+[2024-12-11 23:18:40] Vendor Current Tickets in Pool: 14
+[2024-12-11 23:18:40] Customer retrieved a ticket. Remaining: 13
+[2024-12-11 23:18:40] Customer retrieved a ticket. Remaining: 12
+[2024-12-11 23:18:41] Vendor added 5 tickets. Total added: 25
+[2024-12-11 23:18:41] Vendor Current Tickets in Pool: 17
+[2024-12-11 23:18:41] Customer retrieved a ticket. Remaining: 16
+[2024-12-11 23:18:41] Customer retrieved a ticket. Remaining: 15
+[2024-12-11 23:18:41] Vendor added 5 tickets. Total added: 30
+[2024-12-11 23:18:41] Vendor Current Tickets in Pool: 20
+[2024-12-11 23:18:41] Customer retrieved a ticket. Remaining: 19
+[2024-12-11 23:18:41] Customer retrieved a ticket. Remaining: 18
+[2024-12-11 23:18:42] Vendor added 5 tickets. Total added: 35
+[2024-12-11 23:18:42] Vendor Current Tickets in Pool: 23
+[2024-12-11 23:18:42] Customer retrieved a ticket. Remaining: 22
+[2024-12-11 23:18:42] Customer retrieved a ticket. Remaining: 21
+[2024-12-11 23:18:42] Vendor added 5 tickets. Total added: 40
+[2024-12-11 23:18:42] Vendor Current Tickets in Pool: 26
+[2024-12-11 23:18:42] Customer retrieved a ticket. Remaining: 25
+[2024-12-11 23:18:42] Customer retrieved a ticket. Remaining: 24
+[2024-12-11 23:18:43] Vendor added 5 tickets. Total added: 45
+[2024-12-11 23:18:43] Vendor Current Tickets in Pool: 29
+[2024-12-11 23:18:43] Customer retrieved a ticket. Remaining: 28
+[2024-12-11 23:18:43] Customer retrieved a ticket. Remaining: 27
+[2024-12-11 23:18:43] Vendor added 5 tickets. Total added: 50
+[2024-12-11 23:18:43] Vendor Current Tickets in Pool: 32
+[2024-12-11 23:18:43] Customer retrieved a ticket. Remaining: 31
+[2024-12-11 23:18:43] Customer retrieved a ticket. Remaining: 30
+[2024-12-11 23:18:44] Final Summary:
+[2024-12-11 23:18:44] Tickets Sold: 20
+[2024-12-11 23:18:44] Remaining Tickets: 30
+[2024-12-11 23:18:44] Ticket system stopped.
+[2024-12-11 23:21:13] System exited.
+[2024-12-11 23:21:13] ---------------------------------------------------------------------
+[2024-12-11 23:40:36] System exited.
+[2024-12-11 23:40:36] ---------------------------------------------------------------------
+[2024-12-12 07:52:43] System exited.
+[2024-12-12 07:52:43] ---------------------------------------------------------------------
+[2024-12-12 10:35:39] System exited.
+[2024-12-12 10:35:39] ---------------------------------------------------------------------
